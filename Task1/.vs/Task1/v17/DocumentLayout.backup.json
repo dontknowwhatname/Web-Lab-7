@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|D:\\Task1\\task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|D:\\Task1\\task1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\bootstrap.esm.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\bootstrap.esm.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\bootstrap.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\bootstrap.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\jquery-3.7.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\jquery-3.7.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\jquery.validate-vsdoc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\jquery.validate-vsdoc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\modernizr-2.8.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\modernizr-2.8.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|D:\\Task1\\task1\\scripts\\myjavascripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\myjavascripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|D:\\Task1\\task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\content\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\content\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|D:\\Task1\\task1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|D:\\Task1\\task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|d:\\task1\\task1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|D:\\Task1\\task1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|D:\\Task1\\task1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6831397B-F007-4F8D-A87E-3C37B833AC1E}|Task1\\Task1.csproj|solutionrelative:task1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.rtl.min.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap.rtl.min.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap.rtl.min.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap.rtl.min.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:29:00.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.rtl.min.css.map",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap.rtl.min.css.map",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeToolTip": "Task1\\Content\\bootstrap.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T03:28:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap.min.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:28:55.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap-reboot.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap-reboot.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap-reboot.css",
+              "ViewState": "AgIAADsCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:28:36.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:28:34.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap-grid.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap-grid.css",
+              "ViewState": "AgIAAOIPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:28:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.esm.min.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\bootstrap.esm.min.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\bootstrap.esm.min.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\bootstrap.esm.min.js",
+              "RelativeToolTip": "Task1\\Scripts\\bootstrap.esm.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:28:17.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\bootstrap.esm.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\bootstrap.esm.js",
+              "RelativeToolTip": "Task1\\Scripts\\bootstrap.esm.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:28:14.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap.js.map",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\bootstrap.js.map",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\bootstrap.js.map",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\bootstrap.js.map",
+              "RelativeToolTip": "Task1\\Scripts\\bootstrap.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T03:28:00.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "jquery-3.7.1.min.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\jquery-3.7.1.min.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\jquery-3.7.1.min.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\jquery-3.7.1.min.js",
+              "RelativeToolTip": "Task1\\Scripts\\jquery-3.7.1.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:27:41.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "jquery.validate-vsdoc.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\jquery.validate-vsdoc.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\jquery.validate-vsdoc.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\jquery.validate-vsdoc.js",
+              "RelativeToolTip": "Task1\\Scripts\\jquery.validate-vsdoc.js",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:27:33.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\jquery.validate.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\jquery.validate.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\jquery.validate.js",
+              "RelativeToolTip": "Task1\\Scripts\\jquery.validate.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:27:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "jquery.validate.min.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\jquery.validate.min.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\jquery.validate.min.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\jquery.validate.min.js",
+              "RelativeToolTip": "Task1\\Scripts\\jquery.validate.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:27:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "modernizr-2.8.3.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\modernizr-2.8.3.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\modernizr-2.8.3.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\modernizr-2.8.3.js",
+              "RelativeToolTip": "Task1\\Scripts\\modernizr-2.8.3.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:27:18.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\bootstrap.min.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\bootstrap.min.js",
+              "RelativeToolTip": "Task1\\Scripts\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:27:05.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Task1\\Task1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Task1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T03:25:43.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAwvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:24:56.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap.rtl.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap.rtl.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap.rtl.css",
+              "ViewState": "AgIAAO4uAAAAAAAAAAAAAP8uAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:24:05.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap-grid.rtl.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap-grid.rtl.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap-grid.rtl.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap-grid.rtl.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap-grid.rtl.css",
+              "ViewState": "AgIAAOIPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:23:18.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\bootstrap-grid.min.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\bootstrap-grid.min.css",
+              "RelativeToolTip": "Task1\\Content\\bootstrap-grid.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T03:23:16.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\bootstrap.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\bootstrap.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\bootstrap.js",
+              "RelativeToolTip": "Task1\\Scripts\\bootstrap.js",
+              "ViewState": "AgIAAFERAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T03:22:49.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Task1\\Task1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Task1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Task1\\Task1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Task1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:42:27.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Task1\\Views\\Web.config",
+              "ToolTip": "D:\\Task1\\Task1\\Views\\Web.config",
+              "RelativeToolTip": "Task1\\Views\\Web.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T01:41:09.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Web.config",
+              "RelativeDocumentMoniker": "Task1\\Web.config",
+              "ToolTip": "D:\\Task1\\Task1\\Web.config",
+              "RelativeToolTip": "Task1\\Web.config",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T00:54:28.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Task1\\Content\\Site.css",
+              "ToolTip": "D:\\Task1\\Task1\\Content\\Site.css",
+              "RelativeToolTip": "Task1\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:53:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Task1\\Task1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T00:52:41.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\Task1\\Task1\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Task1\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\Task1\\Task1\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Task1\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:51:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyJavaScripts.js",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Scripts\\MyJavaScripts.js",
+              "RelativeDocumentMoniker": "Task1\\Scripts\\MyJavaScripts.js",
+              "ToolTip": "D:\\Task1\\Task1\\Scripts\\MyJavaScripts.js",
+              "RelativeToolTip": "Task1\\Scripts\\MyJavaScripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T00:51:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Task1\\Task1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T00:50:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Task1\\Task1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Task1\\Task1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:48:00.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
